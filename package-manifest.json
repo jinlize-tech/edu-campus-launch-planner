@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-079",
+  "repository_name": "edu-campus-launch-planner",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-campus-launch-planner-v1.0.0.zip",
+  "sha256": "596FF091D7E5C1499E5502512D3272408ADB509C48868204348B0C2C9E52BDEA",
+  "bytes": 4947,
+  "entries": [
+    "edu-campus-launch-planner/SKILL.md",
+    "edu-campus-launch-planner/references/DOMAIN_GUIDE.md",
+    "edu-campus-launch-planner/references/EXAMPLES.md",
+    "edu-campus-launch-planner/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:46:31.0194685+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
