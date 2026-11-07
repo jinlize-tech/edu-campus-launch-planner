@@ -2,17 +2,29 @@
   "product_id": "JLZ-EDU-SK-079",
   "repository_name": "edu-campus-launch-planner",
   "product_type": "Skill",
-  "version": "1.0.0",
-  "package_path": "dist/edu-campus-launch-planner-v1.0.0.zip",
-  "sha256": "596FF091D7E5C1499E5502512D3272408ADB509C48868204348B0C2C9E52BDEA",
-  "bytes": 4947,
+  "version": "1.0.1",
+  "package_path": "dist/edu-campus-launch-planner-v1.0.1.zip",
+  "sha256": "AD008FA16266079B2BC733A953C163CA8F115C613ACA76F55397CD4C057B90D9",
+  "bytes": 14662,
   "entries": [
     "edu-campus-launch-planner/SKILL.md",
     "edu-campus-launch-planner/references/DOMAIN_GUIDE.md",
     "edu-campus-launch-planner/references/EXAMPLES.md",
-    "edu-campus-launch-planner/templates/OUTPUT_TEMPLATE.md"
+    "edu-campus-launch-planner/templates/OUTPUT_TEMPLATE.md",
+    "edu-campus-launch-planner/README.md",
+    "edu-campus-launch-planner/USAGE.md",
+    "edu-campus-launch-planner/LICENSE",
+    "edu-campus-launch-planner/THIRD_PARTY_NOTICES.md",
+    "edu-campus-launch-planner/scripts/validate_input.js"
   ],
-  "built_at": "2026-11-06T22:46:31.0194685+08:00",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED"
+  "license": "Apache-2.0",
+  "license_included": true,
+  "license_sha256": "CFC7749B96F63BD31C3C42B5C471BF756814053E847C10F3EB003417BC523D30",
+  "third_party_notice_included": true,
+  "previous_package_path": "dist/edu-campus-launch-planner-v1.0.0.zip",
+  "previous_package_sha256": "596FF091D7E5C1499E5502512D3272408ADB509C48868204348B0C2C9E52BDEA",
+  "built_at": "2026-11-07T09:20:59.6668306+08:00",
+  "status": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE"
 }
